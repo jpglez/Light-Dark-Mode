@@ -18,3 +18,5 @@ A checkbox toggle updates the theme and saves it in localStorage.
 unDraw SVGs swap between _light.svg and _dark.svg versions when the theme changes.
 
 🚀 Live Demo
+
+https://jpglez.github.io/Light-Dark-Mode/
